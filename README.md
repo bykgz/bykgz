@@ -42,6 +42,12 @@ I have strong analytical and communication skills, work ethic, ability to ask re
 <br>
 <br>
 <br>
+<a href="https://www.linkedin.com/in/mustafabuyukgoze/" rel="nofollow">
+<img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+</a> 
+<a href="https://medium.com/@mustafa.bykgz" rel="nofollow"><img src="https://camo.githubusercontent.com/031158fe406368e77048939080cdd7894ea1e98b230681dffa5c9b081e507194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width: 100%;"></a>   	
+  
+
 
  <div align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a4ee187e51e88cb832595d6a9c2876a70f99ec25a38ccf59a4595ac2006bcee9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7a656c6968617a6e6b26267374796c653d666c61742d737175617265"><img src="https://camo.githubusercontent.com/a4ee187e51e88cb832595d6a9c2876a70f99ec25a38ccf59a4595ac2006bcee9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7a656c6968617a6e6b26267374796c653d666c61742d737175617265" align="center" data-canonical-src="https://komarev.com/ghpvc/?username=bykgz&amp;&amp;style=flat-square" style="max-width: 100%;"></a>
@@ -50,9 +56,5 @@ I have strong analytical and communication skills, work ethic, ability to ask re
 </article>
 
 
-<a href="https://www.linkedin.com/in/mustafabuyukgoze/" rel="nofollow">
-<img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-</a> 
-<a href="https://medium.com/@mustafa.bykgz" rel="nofollow"><img src="https://camo.githubusercontent.com/031158fe406368e77048939080cdd7894ea1e98b230681dffa5c9b081e507194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width: 100%;"></a>   	
-  
+
 
