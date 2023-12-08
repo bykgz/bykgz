@@ -40,9 +40,6 @@ I have strong analytical and communication skills, work ethic, ability to ask re
 <br>
 <br>
 <br>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/bykgz/bykgz/blob/main/profile-3d-contrib/profile-green-animate.svg"><img src="/bykgz/bykgz/raw/main/profile-3d-contrib/profile-green-animate.svg" alt="" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="/bykgz/bykgz/blob/main/link"><img src="https://camo.githubusercontent.com/643d151b9cf09874ade0c854f72a2b8fefc546fc56773a964bd46e963be21749/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d7175617265266c6162656c436f6c6f723d303030266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465266c696e6b3d6c696e6b" alt="Github Badge" data-canonical-src="https://img.shields.io/badge/-Github-000?style=quare&amp;labelColor=000&amp;logo=Github&amp;logoColor=white&amp;link=link" style="max-width: 100%;"></a></p>
-  
 <br>
 <br>
 
@@ -51,3 +48,10 @@ I have strong analytical and communication skills, work ethic, ability to ask re
 </div> 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/bykgz/bykgz/blob/output/github-contribution-grid-snake.gif"><img src="https://github.com/bykgz/bykgz/raw/output/github-contribution-grid-snake.gif" alt="snake gif" data-animated-image="" style="max-width: 100%;"></a></p>
 </article>
+
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/bykgz/bykgz/blob/main/profile-3d-contrib/profile-green-animate.svg"><img src="/bykgz/bykgz/raw/main/profile-3d-contrib/profile-green-animate.svg" alt="" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="/bykgz/bykgz/blob/main/link"><img src="https://camo.githubusercontent.com/643d151b9cf09874ade0c854f72a2b8fefc546fc56773a964bd46e963be21749/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d7175617265266c6162656c436f6c6f723d303030266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465266c696e6b3d6c696e6b" alt="Github Badge" data-canonical-src="https://img.shields.io/badge/-Github-000?style=quare&amp;labelColor=000&amp;logo=Github&amp;logoColor=white&amp;link=link" style="max-width: 100%;"></a></p>
+
+
+
