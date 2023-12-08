@@ -36,19 +36,16 @@ I have strong analytical and communication skills, work ethic, ability to ask re
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" rel="nofollow"> <img src="https://avatars.githubusercontent.com/u/65618195?s=200&amp;v=4" alt="xray" width="40" height="40" style="max-width: 100%;"> </a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/265574c40f0816ed0fd67127cfbc382866182a7ec468c614906103c15700e707/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a656e6b696e732f6a656e6b696e732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/265574c40f0816ed0fd67127cfbc382866182a7ec468c614906103c15700e707/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a656e6b696e732f6a656e6b696e732d69636f6e2e737667" alt="jenkins" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="max-width: 100%;"></a> </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<a href="https://www.linkedin.com/in/mustafabuyukgoze/" rel="nofollow">
+  <a href="https://www.linkedin.com/in/mustafabuyukgoze/" rel="nofollow">
 <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a> 
 <a href="https://medium.com/@mustafa.bykgz" rel="nofollow"><img src="https://camo.githubusercontent.com/031158fe406368e77048939080cdd7894ea1e98b230681dffa5c9b081e507194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width: 100%;"></a>   	
-  
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
  <div align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a4ee187e51e88cb832595d6a9c2876a70f99ec25a38ccf59a4595ac2006bcee9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7a656c6968617a6e6b26267374796c653d666c61742d737175617265"><img src="https://camo.githubusercontent.com/a4ee187e51e88cb832595d6a9c2876a70f99ec25a38ccf59a4595ac2006bcee9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7a656c6968617a6e6b26267374796c653d666c61742d737175617265" align="center" data-canonical-src="https://komarev.com/ghpvc/?username=bykgz&amp;&amp;style=flat-square" style="max-width: 100%;"></a>
 </div> 
