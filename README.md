@@ -39,9 +39,11 @@ I have strong analytical and communication skills, work ethic, ability to ask re
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/677d7d6afeeb04410190a061d7bbb6fb8a5246c6dc80ab4b665988ca04b091d1/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a656e6b696e732f6a656e6b696e732d69636f6e2e737667"><img src="https://camo.githubusercontent.com/677d7d6afeeb04410190a061d7bbb6fb8a5246c6dc80ab4b665988ca04b091d1/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a656e6b696e732f6a656e6b696e732d69636f6e2e737667" alt="jenkins" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="max-width: 100%;"></a> </p>
 <br>
 <br>
-  <a href="https://www.linkedin.com/in/mustafabuyukgoze/" rel="nofollow">
-<img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-</a> 
+
+<a href="https://www.linkedin.com/in/mustafabuyukgoze/" rel="nofollow">
+<img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
 <a href="https://medium.com/@mustafa.bykgz" rel="nofollow"><img src="https://camo.githubusercontent.com/031158fe406368e77048939080cdd7894ea1e98b230681dffa5c9b081e507194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width: 100%;"></a>   	
 <br>
 <br>
