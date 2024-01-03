@@ -50,8 +50,8 @@ I have strong analytical and communication skills, work ethic, ability to ask re
 <br>
 <br>
  <div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a4ee187e51e88cb832595d6a9c2876a70f99ec25a38ccf59a4595ac2006bcee9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7a656c6968617a6e6b26267374796c653d666c61742d737175617265"><img src="https://camo.githubusercontent.com/a4ee187e51e88cb832595d6a9c2876a70f99ec25a38ccf59a4595ac2006bcee9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7a656c6968617a6e6b26267374796c653d666c61742d737175617265" align="center" data-canonical-src="https://komarev.com/ghpvc/?username=bykgz&amp;&amp;style=flat-square" style="max-width: 100%;"></a>
-</div> 
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f720bb3e7f431088934a838b7392adf48225ed0f3f61c8a0da0630682eb7208e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7a656c6968617a6e6b26267374796c653d666c61742d737175617265"><img src="https://camo.githubusercontent.com/f720bb3e7f431088934a838b7392adf48225ed0f3f61c8a0da0630682eb7208e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7a656c6968617a6e6b26267374796c653d666c61742d737175617265" align="center" data-canonical-src="https://komarev.com/ghpvc/?username=zelihaznk&amp;&amp;style=flat-square" style="max-width: 100%;"></a>
+</div>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/bykgz/bykgz/blob/output/github-contribution-grid-snake.gif"><img src="https://github.com/bykgz/bykgz/raw/output/github-contribution-grid-snake.gif" alt="snake gif" data-animated-image="" style="max-width: 100%;"></a></p>
 </article>
 
