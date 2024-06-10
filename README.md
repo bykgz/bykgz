@@ -14,19 +14,7 @@
   />
 </p>
 
-<script
-  src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs"
-  type="module"
-></script>
 
-<dotlottie-player
-  src="https://lottie.host/e45f5556-a947-48c8-90f6-7f894f0bbb74/keRStKek59.json"
-  background="transparent"
-  speed="1"
-  style="width: 300px; height: 300px"
-  loop
-  autoplay
-></dotlottie-player>
 
 <h1>My name is Mustafa 👩🏻‍💻</h1>
 <h3 dir="auto">
