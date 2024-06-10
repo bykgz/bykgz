@@ -3,7 +3,7 @@
 
 
 
-  Hi👋🏻 Welcome to my GitHub profile 🍀
+  &#72; &#105;👋🏻 &#87; &#101; &#108;  &#99; &#111; &#109; &#101;  &#160; &#160;   &#116;&#111;  &#109;&#121;  &#160; &#160;  &#71; &#105; &#116; &#72; &#117; &#98; profile 🍀
   <img src="https://github.com/bykgz/bykgz/blob/main/RCLqJwY5Uy.gif" alt="Typing SVG" style="max-width: 100%" />
 </h1>
 
