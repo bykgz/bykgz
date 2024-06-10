@@ -6,8 +6,7 @@
 </h1>
 <a>
   
-  Hi👋🏻 Welcome to my GitHub profile 🍀   
-  <img
+  Hi👋🏻 Welcome to my GitHub profile 🍀   <img
     src="https://github.com/bykgz/bykgz/blob/main/RCLqJwY5Uy.gif"
     alt="Typing SVG"
     style="max-width: 100%"/>
