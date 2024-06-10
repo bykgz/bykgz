@@ -1,5 +1,8 @@
 <h1 align="center" dir="auto">
   <a id="user-content-hi--welcome-to-my-github-profile--" class="anchor" aria-hidden="true" tabindex="-1" href="#hi--welcome-to-my-github-profile--"></a>
+
+
+   <img src="https://github.com/bykgz/bykgz/blob/main/gOSdbH2LMt.gif" alt="Typing SVG" style="max-width: 100%" />
   Hi👋🏻 Welcome to my GitHub profile 🍀
   <img src="https://github.com/bykgz/bykgz/blob/main/RCLqJwY5Uy.gif" alt="Typing SVG" style="max-width: 100%" />
 </h1>
