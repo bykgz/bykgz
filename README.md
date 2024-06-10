@@ -35,7 +35,7 @@
   <img src="https://asset.brandfetch.io/idIq_kF0rb/idZxkJkFIi.svg?updated=1667565307270" alt="cypress" width="65" height="40" style="max-width: 100%" />
 </a>
 <a href="https://appium.io" rel="nofollow">
-  <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="appium" style="max-width: 50px" />
+  <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="appium" style="max-width: 50%" />
 </a>
 
 <h3>Testing Frameworks:</h3>
