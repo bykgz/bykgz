@@ -31,7 +31,7 @@
   <img src="https://e7.pngegg.com/pngimages/105/17/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-blue-text.png" alt="SQL" width="38" height="38" style="max-width: 100%" />
 </a>
 
-<h3> &#84; &#101; &#115; &#116; &#105; &#110; &#103; &#160;  &#84; &#111; &#111; &#108; &#115; &#58;</h3>
+<h2> &#84; &#101; &#115; &#116; &#105; &#110; &#103; &#160;  &#84; &#111; &#111; &#108; &#115; &#58;</h2>
 <a href="https://www.selenium.dev/" rel="nofollow" target="_blank">
   <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png" style="max-width: 100%" />
 </a>
@@ -45,7 +45,7 @@
   <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="appium"    width="150" height="40" style="max-width: 50%" />
 </a>
 
-<h3>Testing Frameworks:</h3>
+<h2> &#84; &#101; &#115; &#116; &#105; &#110; &#103; &#160;  &#70; &#114; &#97; &#109; &#101; &#119; &#111; &#114; &#107; &#115; &#58; </h2>
 <a href="https://cucumber.io/" target="_blank" rel="nofollow">
   <img src="https://github.com/devicons/devicon/raw/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40" style="max-width: 100%" />
 </a>
