@@ -12,7 +12,7 @@
 </a>
 
 <h1>  &#77; &#121;    &#160;   &#110; &#97; &#109; &#101;  &#160; &#105; &#115;  &#160;   &#77; &#117; &#115; &#116; &#97; &#102; &#97;  &#160;  <img height="40" width="40" src="https://github.com/bykgz/bykgz/blob/main/hacker_1233703.png" style="max-width: 100%" >
-<h2>About me:</h2>
+<h2> &#65; &#98; &#111; &#117; &#116;  &#160;  &#109; &#101; &#58;</h2>
 <p>
   I have experience testing Manual, UI and Backend. While manual tests were performed using JIRA-Xray, UI testing over Java was used for Selenium Web Driver, JUNIT, TestNG and Cucumber. Backend Tests are done using API, SQL, JDBC, Postman. I also collaborated using Github. I have a solid understanding and skills in Software Development Lifecycle (SDLC), Software Testing Lifecycle (STLC) within Agile/Scrum Methodology. I have strong analytical and communication skills, work ethic, ability to ask research questions, organized, detail-oriented, fun and adaptable personality.
 </p>
