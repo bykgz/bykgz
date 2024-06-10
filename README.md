@@ -18,7 +18,7 @@
 </p>
 
 <br />
-<br />
+
 
 <h2>&#80; &#114; &#111; &#103; &#114; &#97; &#109; &#109; &#105; &#110; &#103;  &#160;   &#76; &#97; &#110; &#103; &#117; &#97; &#103; &#101; &#115; &#58; </h2>
 <a href="https://www.java.com/" rel="nofollow" target="_blank">
@@ -68,13 +68,7 @@
 <br />
 <br />
         
-            
 <h3> &#79; &#84; &#72; &#69; &#82;          &#160;&#160;&#160;      &#84; &#79; &#79; &#76; &#83; </h3>
-
-<br />
-
-        
-           
 <a href="https://swagger.io/" rel="nofollow" target="_blank">
   <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="swagger" width="40" height="40" style="max-width: 100%" />
 </a>
