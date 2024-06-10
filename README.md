@@ -9,7 +9,11 @@
     src="https://github.com/bykgz/bykgz/blob/main/RCLqJwY5Uy.gif"
     alt="Typing SVG"
     style="max-width: 100%"
-  /></a>
+    height="300"
+    width="300"
+  />
+
+</a>
 
 
 
