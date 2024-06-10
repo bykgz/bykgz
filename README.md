@@ -108,8 +108,8 @@
 <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" rel="nofollow">
   <img src="https://avatars.githubusercontent.com/u/65618195?s=200&amp;v=4" alt="xray" width="40" height="40" style="max-width: 100%" />
 </a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/677d7d6afeeb04410190a061d7bbb6fb8a5246c6dc80ab4b665988ca04b091d1/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a656e6b696e732f6a656e6b696e732d69636f6e2e737667">
-  <img src="https://camo.githubusercontent.com/677d7d6afeeb04410190a061d7bbb6fb8a5246c6dc80ab4b665988ca04b091d1/68747470733a2f2f7777772e766563746f726c6f676f732e7a6f6e652f6c6f676f732f6a656e6b696e732f6a656e6b696e732d69636f6e2e737667" alt="jenkins" width="40" height="40" style="max-width: 100%" />
+<a target="_blank" rel="nofollow" href="https://www.jenkins.io/">
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="jenkins" width="40" height="40" style="max-width: 100%" />
 </a>
 
 <br />
