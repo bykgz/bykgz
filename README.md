@@ -18,6 +18,8 @@
 </p>
 
 <br />
+<br />
+
 <h2>&#80; &#114; &#111; &#103; &#114; &#97; &#109; &#109; &#105; &#110; &#103;  &#160;   &#76; &#97; &#110; &#103; &#117; &#97; &#103; &#101; &#115; &#58; </h2>
 <a href="https://www.java.com/" rel="nofollow" target="_blank">
   <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="max-width: 100%" />
@@ -32,6 +34,7 @@
   <img src="https://e7.pngegg.com/pngimages/105/17/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-blue-text.png" alt="SQL" width="38" height="38" style="max-width: 100%" />
 </a>
 
+<br />
 <br />
 
 <h2> &#84; &#101; &#115; &#116; &#105; &#110; &#103; &#160;  &#84; &#111; &#111; &#108; &#115; &#58;</h2>
@@ -49,6 +52,7 @@
 </a> 
 
 <br /> 
+<br />
 
 <h2> &#84; &#101; &#115; &#116; &#105; &#110; &#103; &#160;  &#70; &#114; &#97; &#109; &#101; &#119; &#111; &#114; &#107; &#115; &#58; </h2>
 <a href="https://cucumber.io/" target="_blank" rel="nofollow">
@@ -62,7 +66,7 @@
 </a>
 
 <br />
-    <br />
+<br />
         
             
 <h3> &#79; &#84; &#72; &#69; &#82;          &#160;&#160;&#160;      &#84; &#79; &#79; &#76; &#83; </h3>
