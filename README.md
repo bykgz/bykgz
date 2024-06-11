@@ -36,7 +36,7 @@
 <br />
 <br />
 
-<h2> &#84; &#101; &#115; &#116; &#105; &#110; &#103; &#160;  &#84; &#111; &#111; &#108; &#115; &#58;</h2>
+<h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=31A910&background=FF000000&random=false&width=435&lines=Testing+Tools+%3A" alt="Typing SVG" /></a> </h2>
 <a href="https://www.selenium.dev/" rel="nofollow" target="_blank">
   <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png" style="max-width: 100%" />
 </a>
