@@ -77,7 +77,7 @@
 
 <h2> 
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=ECF73B&background=FF000000&random=false&width=435&lines=Testing+Frameworks+%3A+" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=CAC552FF&background=FF000000&random=false&width=435&lines=Testing+Frameworks+%3A+" alt="Typing SVG" /></a>
 </h2>
 
 <a href="https://cucumber.io/" target="_blank" rel="nofollow">
