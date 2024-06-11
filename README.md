@@ -93,7 +93,12 @@
 <br />
 <br />
         
-<h2> &#79; &#116; &#104; &#101; &#114;   &#160;  &#84;  &#111; &#111;  &#108;  &#115; &#58; </h2>
+<h2> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=C7B6F7&vCenter=true&random=false&width=300&lines=Other+Tools+%3A+" alt="Typing SVG" />
+  </a>
+</h2>
+
 <a href="https://swagger.io/" rel="nofollow" target="_blank">
   <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="swagger" width="40" height="40" style="max-width: 100%" />
 </a>
