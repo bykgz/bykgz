@@ -3,7 +3,7 @@
 
  
  <img src="https://github.com/bykgz/bykgz/blob/main/RCLqJwY5Uy.gif" alt="Typing SVG" style="max-width: 100%" />
-<h1>  &#72; &#105;  &#160;👋🏻   &#160; &#87; &#101; &#108;  &#99; &#111; &#109; &#101;  &#160;  &#116; &#111;  &#160;  &#109; &#121;  &#160;  &#71; &#105; &#116; &#72; &#117; &#98; &#160;  &#112; &#114; &#111; &#102; &#105; &#108; &#101;  &#160; 🍀 </h1>
+<h1>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1000&pause=200&color=FFF9F9&background=FF000000&random=false&width=435&lines=H%C4%B0+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>  &#160; &#87; &#101; &#108;  &#99; &#111; &#109; &#101;  &#160;  &#116; &#111;  &#160;  &#109; &#121;  &#160;  &#71; &#105; &#116; &#72; &#117; &#98; &#160;  &#112; &#114; &#111; &#102; &#105; &#108; &#101;  &#160; 🍀 </h1>
  
 </h1>
 
