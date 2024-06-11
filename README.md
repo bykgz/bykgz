@@ -1,8 +1,4 @@
 
-<h1>
-  <img src="https://github.com/bykgz/bykgz/blob/main/RCLqJwY5Uy.gif">
-</h1>
-
 
 
 <h1>
