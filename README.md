@@ -58,6 +58,7 @@
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=31A910&background=FF000000&random=false&width=435&lines=Testing+Tools+%3A" alt="Typing SVG" /></a>
 </h2>
+
 <a href="https://www.selenium.dev/" rel="nofollow" target="_blank">
   <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png" style="max-width: 100%" />
 </a>
@@ -74,8 +75,11 @@
 <br /> 
 <br />
 
-<h2> <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=ECF73B&vCenter=true&random=false&width=300&lines=Testing+Frameworks+%3A+" alt="Typing SVG" /></a> </h2>
+<h2> 
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=ECF73B&background=FF000000&random=false&width=435&lines=Testing+Frameworks+%3A+" alt="Typing SVG" /></a>
+</h2>
+
 <a href="https://cucumber.io/" target="_blank" rel="nofollow">
   <img src="https://github.com/devicons/devicon/raw/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40" style="max-width: 100%" />
 </a>
