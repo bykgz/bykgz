@@ -10,12 +10,11 @@
 <img src="https://camo.githubusercontent.com/34d9260ee5e7102b20449e81e13d79302ad86ef8ceaf5678aac9d4cf91937a92/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d253233373332444134266c696e65733d46756c6c2b537461636b2b4175746f6d6174696f6e2b456e67696e6565722b2537432b5475726b65793b492b616d2b536f6674776172652b546573742b456e67696e6565722e3b492b616d2b73686172696e672b6d792b70726f6a656374732b696e2b686572653b492b737567676573742b796f752b7265766965772b69742b746f2b6b6e6f772b61626f75742b6d652b2546302539462539312541392546302539462538462542422545322538302538442546302539462539322542423b" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=%23732DA4&amp;lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Software+Test+Engineer.;I+am+sharing+my+projects+in+here;I+suggest+you+review+it+to+know+about+me+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;" style="max-width: 100%;  margin-top: -50px;">
 </a>
 
-
+<h1  style="height: 100px">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=300&lines=My+name+is+Mustafa" alt="Typing SVG" /> <img height="40" width="40" src="https://github.com/bykgz/bykgz/blob/main/hacker_1233703.png" style="max-width: 100%" >
   </a> 
-
-
+</h1>
 
 
 
