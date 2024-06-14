@@ -146,6 +146,10 @@
   <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="jenkins" width="40" height="40" style="max-width: 100%" />
 </a>
 
+<a href="https://rest-assured.io/" rel="nofollow">
+<img src="https://private-user-images.githubusercontent.com/101150339/293902015-9b7d9419-2810-4c96-9a20-bf623777c51b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgzNzAwODAsIm5iZiI6MTcxODM2OTc4MCwicGF0aCI6Ii8xMDExNTAzMzkvMjkzOTAyMDE1LTliN2Q5NDE5LTI4MTAtNGM5Ni05YTIwLWJmNjIzNzc3YzUxYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxNFQxMjU2MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZTZlM2RkMDQ2ZGJmNDMyNGY5NGFkMzViN2ZjYWJlY2M2MGVmMDE2N2I1YTA2ZWQwYjMzNjUyNWRjZGViYTk1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.SmIrLCzTzMS8Aw6Uq6PhOHjNW_2kMyV8LzEDEUWkidA" alt="RestAssured" width="40" height="40"  style="max-width: 100%;"> 
+</a>
+
 <br />
     <br />
         <br />
