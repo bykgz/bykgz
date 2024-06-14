@@ -109,28 +109,24 @@
 <a href="https://www.w3schools.com/html/" rel="nofollow" target="_blank">
   <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png" style="max-width: 100%" />
 </a>
+
 <a href="" rel="nofollow" target="_blank">
   <img height="40" width="60" src="https://jmeter.apache.org/images/logo.svg" style="max-width: 100%" />
 </a>
-<a target="_blank" rel="nofollow" href="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png" style="max-width: 100%" />
-</a>
+
 <a target="_blank" rel="nofollow" href="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png">
   <img height="40" width="40" src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" style="max-width: 100%" />
 
 
-
-
-
-
-  
 </a>
 <a href="https://www.jetbrains.com/idea/features/" rel="nofollow">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" width="40" height="40" style="max-width: 100%" />
 </a>
+
 <a href="https://code.visualstudio.com/" rel="nofollow">
   <img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width: 100%" />
 </a>
+
 <a href="https://postman.com" rel="nofollow">
   <img src="https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" style="max-width: 100%" />
 </a>
