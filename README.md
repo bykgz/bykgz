@@ -158,12 +158,19 @@
   <a href="https://www.linkedin.com/in/mustafabuyukgoze/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%" />
   </a>
+  
   <a href="https://medium.com/@mustafa.bykgz" rel="nofollow">
     <img src="https://camo.githubusercontent.com/70ca88ea4ec71a3bfefbe92ad2bc4d529dd80198d97f7903d2ce60af5b9860d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width: 100%" />
   </a>
+
+
+  <a href="mailto:mustafa.bykgz@gmail.com">
+  <img align="center" src="https://private-user-images.githubusercontent.com/101150339/293899924-50d7e075-0bef-4dac-82dd-04e29f9d522d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgzNzAwODAsIm5iZiI6MTcxODM2OTc4MCwicGF0aCI6Ii8xMDExNTAzMzkvMjkzODk5OTI0LTUwZDdlMDc1LTBiZWYtNGRhYy04MmRkLTA0ZTI5ZjlkNTIyZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxNFQxMjU2MjBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNzdmNDJlMDdiMWMxNGFkMjI5NGQyMTViYTFmNTA3ODU0NjRlM2M0OTZjMTA2ZDg5OWU5YmJkMDhiMGJkNGE1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.H_cxedbwNijIXDK65W5qagirIalzmETvzR5FSeXqNG8" alt="mustafa.bykgz@gmail.com" height="30" width="40"  style="max-width: 100%;">
+  </a>
+  
 </p>
 
-
+   <br />
 <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0fbcc6597b21cd9eaffad00f0f571b4c07f04730eec6e9a45015729ec934e8e8/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c706172736c616e3131266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174">
   <img src="https://camo.githubusercontent.com/0fbcc6597b21cd9eaffad00f0f571b4c07f04730eec6e9a45015729ec934e8e8/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c706172736c616e3131266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="bykgz" data-canonical-src="https://komarev.com/ghpvc/?username=bykgz&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 </a>
