@@ -99,12 +99,12 @@
 
 <table>
   <tr>
-    <td>
+    <td width="40" height="40">
       <a href="https://swagger.io/" rel="nofollow" target="_blank">
         <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="swagger" width="40" height="40" style="max-width: 100%" />
       </a>
     </td>
-    <td>
+    <td width="40" height="40">
       <a href="https://www.postman.com/what-is-an-api/" rel="nofollow">
         <img src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png" alt="api" width="40" height="40" style="max-width: 100%" />
       </a>
