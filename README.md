@@ -76,22 +76,22 @@
 
 <table>
   <tr>
-    <td width="60">
+    <td width="80">
       <a href="https://www.selenium.dev/" rel="nofollow" target="_blank">
         <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png" />
       </a>
     </td>
-    <td width="60">
+    <td width="80">
       <a href="https://playwright.dev/" rel="nofollow" target="_blank">
         <img height="40" width="60" src="https://playwright.dev/img/playwright-logo.svg"  />
       </a>
     </td>
-    <td width="60">
+    <td width="80">
       <a href="https://www.cypress.io" rel="nofollow" target="_blank">
         <img src="https://asset.brandfetch.io/idIq_kF0rb/idZxkJkFIi.svg?updated=1667565307270" alt="cypress" />
       </a>
     </td>
-    <td width="60">
+    <td width="80">
       <a href="https://appium.io" rel="nofollow" target="_blank">
         <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="appium" />
       </a>
@@ -110,21 +110,21 @@
 
 <table>
   <tr>
-    <td width="60">
+    <td width="90">
   <a href="https://cucumber.io/" target="_blank" rel="nofollow">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40" style="max-width: 100%" />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" />
 </a>
-    </td>
-    <td width="60">
+</td>
+    <td width="90">
      <a href="https://testng.org/" rel="nofollow" target="_blank">
-  <img height="40" width="60" src="https://noorteck.com/wp-content/uploads/2019/05/TestNG-Logo.png" style="max-width: 100%" />
+  <img  src="https://noorteck.com/wp-content/uploads/2019/05/TestNG-Logo.png" />
 </a>
-    </td>
-    <td width="60">
+ </td>
+    <td width="90">
  <a href="" rel="nofollow" target="_blank">
-  <img height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" style="max-width: 100%" />
+  <img  src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" />
 </a>
-    </td>
+</td>
   </tr>
 </table>
 
