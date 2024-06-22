@@ -119,9 +119,9 @@
         <img  src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png" style="max-width: 100%" />
       </a>
     </td>
-    <td width="70" height="40">
+    <td width="80" height="40">
       <a href="" rel="nofollow" target="_blank">
-        <img height="40" width="60" src="https://jmeter.apache.org/images/logo.svg" style="max-width: 100%" />
+        <img  src="https://jmeter.apache.org/images/logo.svg" style="max-width: 100%" />
       </a>
     </td>
     <td width="70" height="40">
