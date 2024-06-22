@@ -169,7 +169,7 @@
 
 
   <a href="mailto:mustafa.bykgz@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD" alt="mustafa.bykgz@gmail.com" style="max-width: 100%" width="100" height="30"  />
+  <img align="center" src="https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD" alt="mustafa.bykgz@gmail.com" style="max-width: 100%" width="120" height="30"  />
   </a>
   
 </p>
