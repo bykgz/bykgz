@@ -99,29 +99,29 @@
 
 <table>
   <tr>
-    <td width="70" >
+    <td style="max-width: 100%" >
       <a href="https://swagger.io/" rel="nofollow" target="_blank">
-        <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="swagger" style="max-width: 100%" />
+        <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="swagger"  />
       </a>
     </td>
-    <td width="70" >
+    <td style="max-width: 100%">
       <a href="https://www.postman.com/what-is-an-api/" rel="nofollow">
-        <img src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png" alt="api" style="max-width: 100%" />
+        <img src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png" alt="api"  />
       </a>
     </td>
-    <td width="70" >
+    <td style="max-width: 100%">
       <a target="_blank" rel="nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  style="max-width: 100%" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"   />
       </a>
     </td>
-    <td width="70" >
+    <td style="max-width: 100%" >
       <a href="https://www.w3schools.com/html/" rel="nofollow" target="_blank">
-        <img  src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png" style="max-width: 100%" />
+        <img  src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png"  />
       </a>
     </td>
-    <td width="80" >
+    <td style="max-width: 100%" >
       <a href="" rel="nofollow" target="_blank">
-        <img  src="https://jmeter.apache.org/images/logo.svg" style="max-width: 100%" />
+        <img  src="https://jmeter.apache.org/images/logo.svg"  />
       </a>
     </td>
     <td width="70">
