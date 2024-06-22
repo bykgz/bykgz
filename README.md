@@ -159,17 +159,17 @@
         <img src="https://github.com/devicons/devicon/raw/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40" style="max-width: 100%" />
       </a>
     </td>
-    <td width="40" height="40">
+    <td width="80" height="40">
       <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" rel="nofollow">
         <img src="https://avatars.githubusercontent.com/u/65618195?s=200&amp;v=4" alt="xray" width="40" height="40" style="max-width: 100%" />
       </a>
     </td>
-    <td width="40" height="40">
+    <td width="80" height="40">
       <a target="_blank" rel="nofollow" href="https://www.jenkins.io/">
         <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="jenkins" width="40" height="40" style="max-width: 100%" />
       </a>
     </td>
-    <td width="40" height="40">
+    <td width="80" height="40">
       <a href="https://rest-assured.io/" rel="nofollow">
         <img src="https://rest-assured.io/img/logo-transparent.png" alt="RestAssured" width="40" height="40" style="max-width: 100%;" />
       </a>
