@@ -107,15 +107,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=CAC552FF&background=FF000000&random=false&width=435&lines=Testing+Frameworks+%3A+" alt="Typing SVG" /></a>
 </h2>
 
-<a href="https://cucumber.io/" target="_blank" rel="nofollow">
+
+<table>
+  <tr>
+    <td width="60">
+  <a href="https://cucumber.io/" target="_blank" rel="nofollow">
   <img src="https://github.com/devicons/devicon/raw/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40" style="max-width: 100%" />
 </a>
-<a href="https://testng.org/" rel="nofollow" target="_blank">
+    </td>
+    <td width="60">
+     <a href="https://testng.org/" rel="nofollow" target="_blank">
   <img height="40" width="60" src="https://noorteck.com/wp-content/uploads/2019/05/TestNG-Logo.png" style="max-width: 100%" />
 </a>
-<a href="" rel="nofollow" target="_blank">
+    </td>
+    <td width="60">
+ <a href="" rel="nofollow" target="_blank">
   <img height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" style="max-width: 100%" />
 </a>
+    </td>
+  </tr>
+</table>
+
 
 <br />
 <br />
