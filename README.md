@@ -156,23 +156,26 @@
             <br />
 
             
-<p>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/mustafabuyukgoze/" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" style="max-width: 100%;" />
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@mustafa.bykgz" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/70ca88ea4ec71a3bfefbe92ad2bc4d529dd80198d97f7903d2ce60af5b9860d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" style="max-width: 100%;" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:mustafa.bykgz@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD" alt="mustafa.bykgz@gmail.com" style="max-width: 100%;" width="120" height="30" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  
-  <a href="https://www.linkedin.com/in/mustafabuyukgoze/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" style="max-width: 100%" />
-  </a>
-  
-  <a href="https://medium.com/@mustafa.bykgz" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/70ca88ea4ec71a3bfefbe92ad2bc4d529dd80198d97f7903d2ce60af5b9860d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465"  style="max-width: 100%" />
-  </a>
-
-
-  <a href="mailto:mustafa.bykgz@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD" alt="mustafa.bykgz@gmail.com" style="max-width: 100%" width="120" height="30"  />
-  </a>
-  
-</p>
 
    <br />
 <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0fbcc6597b21cd9eaffad00f0f571b4c07f04730eec6e9a45015729ec934e8e8/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c706172736c616e3131266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174">
