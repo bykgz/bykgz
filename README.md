@@ -104,9 +104,9 @@
         <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="swagger"  />
       </a>
     </td>
-    <td width="40">
+    <td width="60">
       <a href="https://www.postman.com/what-is-an-api/" rel="nofollow">
-        <img src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png" alt="api"   />
+        <img src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png" alt="api"  height="40" />
       </a>
     </td>
     <td width="60">
