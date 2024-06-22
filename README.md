@@ -160,7 +160,7 @@
   </a>
   
   <a href="https://medium.com/@mustafa.bykgz" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/70ca88ea4ec71a3bfefbe92ad2bc4d529dd80198d97f7903d2ce60af5b9860d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width: 100%" />
+    <img src="https://camo.githubusercontent.com/70ca88ea4ec71a3bfefbe92ad2bc4d529dd80198d97f7903d2ce60af5b9860d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD" style="max-width: 100%" />
   </a>
 
 
