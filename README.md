@@ -74,7 +74,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=31A910&background=FF000000&random=false&width=435&lines=Testing+Tools+%3A" alt="Typing SVG" /></a>
 </h2>
 
-<table align="center" style="table-layout: fixed; width: 100%;">
+<table>
   <tr>
     <td width="60">
       <a href="https://www.selenium.dev/" rel="nofollow" target="_blank">
