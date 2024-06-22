@@ -156,7 +156,7 @@
             <br />
 
             
-<p align="center">
+<p>
 
   
   <a href="https://www.linkedin.com/in/mustafabuyukgoze/" rel="nofollow">
