@@ -7,7 +7,7 @@
 
   <table>
     <tr>
-     <td width="80">
+     <td width="500">
       <h3>
               
   <a href="https://git.io/typing-svg">
