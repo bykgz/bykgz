@@ -51,7 +51,7 @@
 <ul dir="auto">
 <li>🔭 I am trying to improve myself in the field of Software Testing, I strive to learn something new every day.  </li>
 <li>⚡ I love coding 💻, movies 🍿 and  music 🎧</li>
-<li>📄 Know about my experiences : <a href="https://drive.google.com/file/d/13P1zAF0wyeCxQK0t5zmHerYr57Zlb_0T/view?usp=drive_link" rel="nofollow"> My Resume</a>  </li>
+<li>  </li>
 </ul>
 
 <h2>
