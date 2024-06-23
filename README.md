@@ -3,7 +3,7 @@
 </p>
 
 
-  <p>
+  <h1>
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1000&pause=200&color=D4D487FF&background=FF000000&random=false&width=70&lines=H%C4%B0+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1000&pause=200&color=D4D487FF&background=FF000000&repeat=false&random=false&width=350&lines=Welcome+to+my+Github+Profile+%F0%9F%8D%80" alt="Typing SVG" /> 
@@ -14,7 +14,7 @@
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=99B3DFFF&vCenter=true&repeat=false&random=false&width=250&lines=I'am+Mustafa+👨🏽‍💻" alt="Typing SVG" /> 
   </a> 
-</p>
+</h1>
 
 <p>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/34d9260ee5e7102b20449e81e13d79302ad86ef8ceaf5678aac9d4cf91937a92/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d253233373332444134266c696e65733d46756c6c2b537461636b2b4175746f6d6174696f6e2b456e67696e6565722b2537432b5475726b65793b492b616d2b536f6674776172652b546573742b456e67696e6565722e3b492b616d2b73686172696e672b6d792b70726f6a656374732b696e2b686572653b492b737567676573742b796f752b7265766965772b69742b746f2b6b6e6f772b61626f75742b6d652b2546302539462539312541392546302539462538462542422545322538302538442546302539462539322542423b">
