@@ -49,8 +49,9 @@
 </h2>
 
 <ul dir="auto">
-<li>🔭 I am trying to improve myself in the field of Software Testing, I strive to learn something new every day.  </li>
-<li>⚡ I love coding 💻, movies 🍿 and  music 🎧</li>
+<li>🔭 I am trying to improve myself in the field of Software Testing, I strive to learn something new every day. </li>
+<li>💪 I have knowledge in Core Java, OOP, JavaScript, Playwright, Selenium WebDriver, Manual Testing, Automation Testing, UI Testing, Back-end Testing, SDLC and STLC </li>
+<li>🤸‍♀️🎨 I love coding 💻, movies 🍿 Sci-fi 👽👨🏽‍🚀🔭 and music 🎧</li>
 <li>  </li>
 </ul>
 
