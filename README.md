@@ -17,7 +17,7 @@
  <img alt="Coding" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" style="width: 60px;"/> 
  </a>
     
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=99B3DFFF&repeat=false&random=false&width=150&lines=I'am+Mustafa+👨🏽‍💻" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=99B3DFFF&repeat=false&random=false&width=190&lines=I'am+Mustafa+👨🏽‍💻" alt="Typing SVG" /> 
 
 
  </a>
