@@ -32,7 +32,9 @@
 </h2>
 
 <p>
+  <strong>
   I have experience testing Manual, UI and Backend. While manual tests were performed using JIRA-Xray, UI testing over Java was used for Selenium Web Driver, JUNIT, TestNG and Cucumber. Backend Tests are done using API, SQL, JDBC, Postman. I also collaborated using Github. I have a solid understanding and skills in Software Development Lifecycle (SDLC), Software Testing Lifecycle (STLC) within Agile/Scrum Methodology. I have strong analytical and communication skills, work ethic, ability to ask research questions, organized, detail-oriented, fun and adaptable personality.
+  </strong>
 </p>
 
 <h2>
