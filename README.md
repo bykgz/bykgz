@@ -50,7 +50,7 @@
 
 <ul dir="auto">
 <li>🔭 I am trying to improve myself in the field of Software Testing, I strive to learn something new every day.  </li>
-<li>⚡ I love coding 💻, watching movies and always music 🎧</li>
+<li>⚡ I love coding 💻, watching movies 🍿 and always music 🎧</li>
 <li>📄  rel="nofollow"> </li>
 </ul>
 
