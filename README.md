@@ -19,7 +19,7 @@
 
 
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=99B3DFFF&vCenter=true&repeat=false&random=false&width=350&lines=I'am+Mustafa+👨🏽‍💻" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=99B3DFFF&vCenter=true&repeat=false&random=false&width=150&lines=I'am+Mustafa+👨🏽‍💻" alt="Typing SVG" /> 
   </a> 
 
   
