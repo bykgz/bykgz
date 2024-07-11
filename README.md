@@ -65,18 +65,28 @@
  
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="max-width: 100%;">
    
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" style="max-width: 100%;">
+   
   <img src="https://img.shields.io/badge/selenium-%23092E20.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium-" style="max-width: 100%;">
   
   <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" style="max-width: 100%;">
   
   <img src="https://img.shields.io/badge/Cypress-005571?style=for-the-badge&logo=cypress" alt="Cypress" style="max-width: 100%;">
   
-   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" style="max-width: 100%;">
- <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" style="max-width: 100%;">
- <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;">
- <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="max-width: 100%;">
- <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" style="max-width: 100%;">
+   <img src="https://img.shields.io/badge/Appium%2320232a.svg?style=for-the-badge&logo=appium&logoColor=%2361DAFB" alt="React" style="max-width: 100%;">
+   
+  <img src="https://img.shields.io/badge/Cucumber-%234ea94b.svg?style=for-the-badge&logo=cucumber&logoColor=white" alt="cucumber" style="max-width: 100%;">
+
+ <img src="https://img.shields.io/badge/testNG-%2300000f.svg?style=for-the-badge&logo=testNG&logoColor=white" alt="testNG" style="max-width: 100%;">
+
+ <img src="https://img.shields.io/JUnit5/redis-%23DD0031.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5" style="max-width: 100%;">
+
+
+ 
+
+
+ 
+
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" style="max-width: 100%;">
  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" style="max-width: 100%;">
  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" alt="Manjaro" style="max-width: 100%;">
@@ -84,7 +94,7 @@
  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11" style="max-width: 100%;">
  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="max-width: 100%;">
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="max-width: 100%;">
- <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" style="max-width: 100%;">
  
 </p>
 
