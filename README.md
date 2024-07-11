@@ -67,7 +67,7 @@
     <a href="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="max-width: 100%;">
     </a>
-    <a href="https://img.shields.io/badge/selenium-%23092E20.svg?style=for-the-badge&logo=selenium-&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://img.shields.io/badge/selenium-%23092E20.svg?style=for-the-badge&logo=selenium&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/selenium-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="selenium-" style="max-width: 100%;">
     </a>
     <a href="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
