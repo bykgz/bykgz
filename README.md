@@ -93,7 +93,7 @@
  
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="max-width: 100%;">
 
- <img src="https://img.shields.io/badge/Jira%2011-%230079d5.svg?style=for-the-badge&logo=Jira%2011&logoColor=white" alt="Jira" style="max-width: 100%;">
+ <img src="https://img.shields.io/badge/Jira-%230079d5.svg?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" style="max-width: 100%;">
 
 
  
