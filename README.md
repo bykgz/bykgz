@@ -106,72 +106,9 @@
   </a> 
 </h2>
 
-<table>
-  <tr>
-    <td width="60">
-      <a href="https://www.java.com/" rel="nofollow" target="_blank">
-        <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"  />
-      </a>
-    </td>
-    <td width="60">
-      <a href="https://www.w3schools.com/js/" rel="nofollow" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" />
-      </a>
-    </td>
-    <td width="60">
-      <a href="https://www.python.org/" rel="nofollow" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" alt="python" />
-      </a>
-    </td>
-    <td width="60">
-      <a href="" rel="nofollow" target="_blank">
-        <img src="https://e7.pngegg.com/pngimages/105/17/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-blue-text.png" alt="SQL" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 <br />
 <br />
-
-<h2> 
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=31A910&background=FF000000&random=false&width=435&lines=Testing+Tools+%3A" alt="Typing SVG" /></a>
-</h2>
-
-<table>
-  <tr>
-    <td width="80">
-      <a href="https://www.selenium.dev/" rel="nofollow" target="_blank">
-        <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png" />
-      </a>
-    </td>
-    <td width="80">
-      <a href="https://playwright.dev/" rel="nofollow" target="_blank">
-        <img height="40" width="60" src="https://playwright.dev/img/playwright-logo.svg"  />
-      </a>
-    </td>
-    <td width="80">
-      <a href="https://www.cypress.io" rel="nofollow" target="_blank">
-        <img src="https://asset.brandfetch.io/idIq_kF0rb/idZxkJkFIi.svg?updated=1667565307270" alt="cypress" />
-      </a>
-    </td>
-    <td width="80">
-      <a href="https://appium.io" rel="nofollow" target="_blank">
-        <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="appium" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br /> 
-<br />
-
-<h2> 
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=CAC552FF&background=FF000000&random=false&width=435&lines=Testing+Frameworks+%3A+" alt="Typing SVG" /></a>
-</h2>
 
 
 <table>
