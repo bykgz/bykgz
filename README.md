@@ -44,7 +44,7 @@
 
 <h2>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=5AC3C5&background=FF000000&random=false&width=435&lines=About+Me+%3A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=5AC3C5&background=FF000000&random=false&width=435&lines=About+Me" alt="Typing SVG" />
   </a>
 </h2>
 
@@ -58,7 +58,7 @@
 
 
 <h2>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=C53755&background=FF000000&random=false&width=435&lines=Tech+Stach++%3A" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=C53755&background=FF000000&random=false&width=435&lines=Tech+Stach" alt="Typing SVG" />
   </a> 
 </h2>
 
