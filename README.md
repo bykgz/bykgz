@@ -70,9 +70,9 @@
     <a href="https://img.shields.io/badge/selenium-%23092E20.svg?style=for-the-badge&logo=selenium&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/selenium-%23092E20.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium-" style="max-width: 100%;">
     </a>
-    <a href="https://img.shields.io/badge/playwraight%23000.svg?style=for-the-badge">
-        <img src="https://img.shields.io/badge/playwraight%23000.svg?style=for-the-badge" alt="Flask" style="max-width: 100%;">
-    </a>
+   <a href="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white">
+  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" style="max-width: 100%;">
+</a>
     <a href="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" style="max-width: 100%;">
     </a>
