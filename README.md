@@ -69,7 +69,8 @@
   
   <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" style="max-width: 100%;">
   
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Cypress-005571?style=for-the-badge&logo=cypress" alt="Cypress" style="max-width: 100%;">
+  
    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" style="max-width: 100%;">
  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" style="max-width: 100%;">
