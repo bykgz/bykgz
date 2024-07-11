@@ -81,14 +81,10 @@
 
  <img src="https://img.shields.io/badge/JUnit5-%23DD0031.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5" style="max-width: 100%;">
 
+  <img src="https://img.shields.io/badge/Swagger-3ECF8E?style=for-the-badge&logo=swagger&logoColor=white" alt="Supabase" style="max-width: 100%;">
 
+ <img src="https://img.shields.io/badge/Api-D70A53?style=for-the-badge&logo=api&logoColor=white" alt="Debian" style="max-width: 100%;">
  
-
-
- 
-
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" style="max-width: 100%;">
- <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" style="max-width: 100%;">
  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" alt="Manjaro" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" style="max-width: 100%;">
  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11" style="max-width: 100%;">
