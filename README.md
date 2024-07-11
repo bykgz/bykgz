@@ -58,7 +58,7 @@
 
 
 <p>
-    <a href="https://img.shields.io/badge/javascript-%23007ACC.svg?style=for-the-badge&logo=javascript-&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
+    <a href="https://img.shields.io/badge/javascript-%23007ACC.svg?style=for-the-badge&logo=javascript&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/javascript-%23007ACC.svg?style=for-the-badge&logo=javascript-&logoColor=white" alt="javascript" style="max-width: 100%;">
     </a>
     <a href="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank" rel="noopener noreferrer nofollow">
