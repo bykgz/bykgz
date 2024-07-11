@@ -60,46 +60,26 @@
 <p>
 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="max-width: 100%;">
-  
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="max-width: 100%;">
- 
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="max-width: 100%;">
-   
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" style="max-width: 100%;">
-   
   <img src="https://img.shields.io/badge/selenium-%23092E20.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium-" style="max-width: 100%;">
-  
   <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" style="max-width: 100%;">
-  
   <img src="https://img.shields.io/badge/Cypress-005571?style=for-the-badge&logo=cypress" alt="Cypress" style="max-width: 100%;">
-  
    <img src="https://img.shields.io/badge/Appium-%2320232a.svg?style=for-the-badge&logo=appium&logoColor=%2361DAFB" alt="Appium" style="max-width: 100%;">
-   
   <img src="https://img.shields.io/badge/Cucumber-%234ea94b.svg?style=for-the-badge&logo=cucumber&logoColor=white" alt="cucumber" style="max-width: 100%;">
-
  <img src="https://img.shields.io/badge/testNG-%2300000f.svg?style=for-the-badge&logo=testNG&logoColor=white" alt="testNG" style="max-width: 100%;">
-
  <img src="https://img.shields.io/badge/JUnit5-%23DD0031.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5" style="max-width: 100%;">
-
   <img src="https://img.shields.io/badge/Swagger-3ECF8E?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" style="max-width: 100%;">
-
  <img src="https://img.shields.io/badge/Api-D70A53?style=for-the-badge&logo=api&logoColor=white" alt="Debian" style="max-width: 100%;">
- 
  <img src="https://img.shields.io/badge/JDBC-35BF5C?style=for-the-badge&logo=JDBC&logoColor=white" alt="JDBC" style="max-width: 100%;">
- 
 <img src="https://img.shields.io/badge/Jenkins-E95420?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" style="max-width: 100%;">
-
  <img src="https://img.shields.io/badge/html5-%230db7ed.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="max-width: 100%;">
- 
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="max-width: 100%;">
-
  <img src="https://img.shields.io/badge/Jira-%230079d5.svg?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" style="max-width: 100%;">
-
- <img src="https://img.shields.io/badge/Git-%23DD0031.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" style="max-width: 100%;">
-
- <img src="https://img.shields.io/badge/Maven-E95420?style=for-the-badge&logo=maven&logoColor=white" alt="maven" style="max-width: 100%;">
-
   <img src="https://img.shields.io/badge/postman-%23ED8B00.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman" style="max-width: 100%;">
+ <img src="https://img.shields.io/badge/Maven-E95420?style=for-the-badge&logo=maven&logoColor=white" alt="maven" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Git-%23DD0031.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" style="max-width: 100%;">
  
 </p>
 
