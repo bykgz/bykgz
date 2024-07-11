@@ -76,7 +76,7 @@
 <img src="https://img.shields.io/badge/Jenkins-E95420?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" style="max-width: 100%;">
  <img src="https://img.shields.io/badge/html5-%230db7ed.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="max-width: 100%;">
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="max-width: 100%;">
- <img src="https://img.shields.io/badge/Jira-%230079d5.svg?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" style="max-width: 100%;">
+ <img src="https://img.shields.io/badge/Jira-%230579d5.svg?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/postman-%23ED8B00.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman" style="max-width: 100%;">
  <img src="https://img.shields.io/badge/Maven-E95420?style=for-the-badge&logo=maven&logoColor=white" alt="maven" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Git-%23DD0031.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" style="max-width: 100%;">
