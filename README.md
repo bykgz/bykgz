@@ -79,7 +79,7 @@
 
  <img src="https://img.shields.io/badge/testNG-%2300000f.svg?style=for-the-badge&logo=testNG&logoColor=white" alt="testNG" style="max-width: 100%;">
 
- <img src="https://img.shields.io/JUnit5/redis-%23DD0031.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5" style="max-width: 100%;">
+ <img src="https://img.shields.io/badge/JUnit5-%23DD0031.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5" style="max-width: 100%;">
 
 
  
