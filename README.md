@@ -57,9 +57,7 @@
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" 
                 
-![Static Badge](https://img.shields.io/badge/javascript-brightgreen?style=for-the-badge&logo=javascript&color=%23240b36)
-
-<img alt="Static Badge" src="https://img.shields.io/badge/javascript-brightgreen?style=for-the-badge&logo=javascript&color=%23240b36">
+<img alt="Static Badge" src="https://img.shields.io/badge/javascript-brightgreen?style=for-the-badge&logo=javascript&color=%E7ECEF">
 
                 
                 
