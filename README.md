@@ -73,7 +73,7 @@
   
   <img src="https://img.shields.io/badge/Cypress-005571?style=for-the-badge&logo=cypress" alt="Cypress" style="max-width: 100%;">
   
-   <img src="https://img.shields.io/badge/Appium%2320232a.svg?style=for-the-badge&logo=appium&logoColor=%2361DAFB" alt="React" style="max-width: 100%;">
+   <img src="https://img.shields.io/badge/Appium-%2320232a.svg?style=for-the-badge&logo=appium&logoColor=%2361DAFB" alt="Appium" style="max-width: 100%;">
    
   <img src="https://img.shields.io/badge/Cucumber-%234ea94b.svg?style=for-the-badge&logo=cucumber&logoColor=white" alt="cucumber" style="max-width: 100%;">
 
