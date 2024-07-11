@@ -98,6 +98,8 @@
  <img src="https://img.shields.io/badge/Git-%23DD0031.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" style="max-width: 100%;">
 
  <img src="https://img.shields.io/badge/Maven-E95420?style=for-the-badge&logo=maven&logoColor=white" alt="maven" style="max-width: 100%;">
+
+  <img src="https://img.shields.io/badge/postman-%23ED8B00.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman" style="max-width: 100%;">
  
 </p>
 
