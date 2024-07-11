@@ -9,24 +9,19 @@
     <tr>
      <td width="1500">
       <h3>
-       
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1000&pause=200&color=D4D487FF&background=FF000000&random=false&width=70&lines=H%C4%B0+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1000&pause=200&color=D4D487FF&background=FF000000&repeat=false&random=false&width=350&lines=Welcome+to+my+Github+Profile+%F0%9F%8D%80" alt="Typing SVG" /> 
-     <a>
- <img alt="Coding" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" style="width: 60px;"/> 
- </a>
     
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=99B3DFFF&repeat=false&random=false&width=300&lines=I'am+Mustafa+👨🏽‍💻" alt="Typing SVG" /> 
-
-
- </a>
-
-
+  <a>
+ <img alt="Coding" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" style="width: 60px;"/> 
+  </a>
   
-</h3>
- </td>
- </tr>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=99B3DFFF&repeat=false&random=false&width=300&lines=I'am+Mustafa+👨🏽‍💻" alt="Typing SVG" /> 
+   </a>
+     </h3>
+    </td>
+  </tr>
 </table>
 
 
@@ -88,102 +83,6 @@
 
 <br />
 <br />
-
-        
-<h2> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=C7B6F7&random=false&width=400&lines=Other+Tools+%3A+" alt="Typing SVG" />
-  </a>
-</h2>
-
-<table>
-  <tr>
-    <td width="60">
-      <a href="https://swagger.io/" rel="nofollow" target="_blank">
-        <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="swagger"  />
-      </a>
-    </td>
-    <td width="60">
-      <a href="https://www.postman.com/what-is-an-api/" rel="nofollow">
-        <img src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png" alt="api" />
-      </a>
-    </td>
-    <td width="60">
-      <a target="_blank" rel="nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"   />
-      </a>
-    </td>
-    <td width="60">
-      <a href="https://www.w3schools.com/html/" rel="nofollow" target="_blank">
-        <img  src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png"  />
-      </a>
-    </td>
-    <td width="60">
-      <a href="" rel="nofollow" target="_blank">
-        <img  src="https://jmeter.apache.org/images/logo.svg"  />
-      </a>
-    </td>
-    <td width="60">
-      <a target="_blank" rel="nofollow" href="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png">
-        <img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"  />
-      </a>
-    </td>
-    <td width="60">
-      <a href="https://www.jetbrains.com/idea/features/" rel="nofollow">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ"  />
-      </a>
-    </td>  
-    <td width="60">
-      <a href="https://rest-assured.io/" rel="nofollow">
-        <img src="https://rest-assured.io/img/logo-transparent.png" alt="RestAssured" />
-      </a>
-    </td>
-      </tr>
-  <tr>
-    <td width="60">
-      <a href="https://code.visualstudio.com/" rel="nofollow">
-        <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-      </a>
-    </td>
-    <td width="60">
-      <a href="https://postman.com" rel="nofollow">
-        <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" />
-      </a>
-    </td>
-    <td width="60">
-      <a href="https://www.postgresql.org/" rel="nofollow">
-        <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-      </a>
-    </td>
-    <td width="60">
-      <a href="https://maven.apache.org/" rel="nofollow">
-        <img src="https://maven.apache.org/images/maven-logo-black-on-white.png"/>
-      </a>
-    </td>
-    <td width="60">
-      <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" />
-      </a>
-    </td>
-    <td width="60" >
-      <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" rel="nofollow">
-        <img src="https://avatars.githubusercontent.com/u/65618195?s=200&amp;v=4" alt="xray" />
-      </a>
-    </td>
-    <td width="60">
-      <a target="_blank" rel="nofollow" href="https://www.jenkins.io/">
-        <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="jenkins" />
-      </a>
-    </td>
-   
-  </tr>
-</table>
-
-
-<br />
-    <br />
-      
-
             
 <table>
   <tr>
