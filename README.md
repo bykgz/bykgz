@@ -57,6 +57,14 @@
 
 
 
+<h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=C53755&background=FF000000&random=false&width=435&lines=Tech+Stach++%3A" alt="Typing SVG" />
+  </a> 
+</h2>
+
+
+
+
 <p>
 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="max-width: 100%;">
@@ -101,10 +109,6 @@
 
 
 
-<h2>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=C53755&background=FF000000&random=false&width=435&lines=Programming+Languages++%3A" alt="Typing SVG" />
-  </a> 
-</h2>
 
 
 <br />
