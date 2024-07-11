@@ -105,6 +105,11 @@
 </table>
 
 
+<h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=F53755&background=FF000000&random=false&width=435&lines=Contact" alt="Typing SVG" />
+  </a> 
+</h2>
+
    <br />
 <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0fbcc6597b21cd9eaffad00f0f571b4c07f04730eec6e9a45015729ec934e8e8/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c706172736c616e3131266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174">
   <img src="https://camo.githubusercontent.com/0fbcc6597b21cd9eaffad00f0f571b4c07f04730eec6e9a45015729ec934e8e8/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c706172736c616e3131266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="bykgz" data-canonical-src="https://komarev.com/ghpvc/?username=bykgz&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
