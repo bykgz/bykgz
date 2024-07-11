@@ -58,26 +58,17 @@
 
 
 <p>
-<a href="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" rel="nofollow">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="max-width: 100%;">
-</a>
-    <a href="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="max-width: 100%;">
-    </a>
-    <a href="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="max-width: 100%;">
+    <a href="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" rel="nofollow">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="max-width: 100%;">
     </a>
     <a href="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="max-width: 100%;">
     </a>
-    <a href="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" style="max-width: 100%;">
+    <a href="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="max-width: 100%;">
     </a>
-    <a href="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" style="max-width: 100%;">
-    </a>
-    <a href="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
-        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="max-width: 100%;">
+    <a href="https://img.shields.io/badge/selenium-%23092E20.svg?style=for-the-badge&logo=selenium-&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
+        <img src="https://img.shields.io/badge/selenium-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="selenium-" style="max-width: 100%;">
     </a>
     <a href="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" target="_blank" rel="noopener noreferrer nofollow">
         <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="max-width: 100%;">
