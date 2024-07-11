@@ -85,7 +85,8 @@
 
  <img src="https://img.shields.io/badge/Api-D70A53?style=for-the-badge&logo=api&logoColor=white" alt="Debian" style="max-width: 100%;">
  
- <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" alt="Manjaro" style="max-width: 100%;">
+ <img src="https://img.shields.io/badge/JDBC-35BF5C?style=for-the-badge&logo=JDBC&logoColor=white" alt="JDBC" style="max-width: 100%;">
+ 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" style="max-width: 100%;">
  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11" style="max-width: 100%;">
  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="max-width: 100%;">
