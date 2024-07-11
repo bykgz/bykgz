@@ -81,7 +81,7 @@
 
  <img src="https://img.shields.io/badge/JUnit5-%23DD0031.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5" style="max-width: 100%;">
 
-  <img src="https://img.shields.io/badge/Swagger-3ECF8E?style=for-the-badge&logo=swagger&logoColor=white" alt="Supabase" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Swagger-3ECF8E?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" style="max-width: 100%;">
 
  <img src="https://img.shields.io/badge/Api-D70A53?style=for-the-badge&logo=api&logoColor=white" alt="Debian" style="max-width: 100%;">
  
@@ -95,7 +95,7 @@
 
  <img src="https://img.shields.io/badge/Jira-%230079d5.svg?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" style="max-width: 100%;">
 
- <img src="https://img.shields.io/badge/Git-%E4003A.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" style="max-width: 100%;">
+ <img src="https://img.shields.io/badge/Git-%23DD0031.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" style="max-width: 100%;">
  
 </p>
 
