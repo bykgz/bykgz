@@ -87,10 +87,13 @@
  
  <img src="https://img.shields.io/badge/JDBC-35BF5C?style=for-the-badge&logo=JDBC&logoColor=white" alt="JDBC" style="max-width: 100%;">
  
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Jenkins-E95420?style=for-the-badge&logo=Jenkins&logoColor=white" alt="Jenkins" style="max-width: 100%;">
+
  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11" style="max-width: 100%;">
- <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="max-width: 100%;">
+ 
+ <img src="https://img.shields.io/badge/html5-%230db7ed.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="max-width: 100%;">
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="max-width: 100%;">
+ 
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" style="max-width: 100%;">
  
 </p>
