@@ -101,7 +101,7 @@
     </td>
     <td>
       <a href="https://medium.com/@mustafa.bykgz" rel="nofollow">
-        <img src="https://img.shields.io/badge/Medium-%230579d5.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium" style="max-width: 100%;" />
+        <img src="https://img.shields.io/badge/Medium-%23092E20.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium" style="max-width: 100%;" />
       </a>
     </td>
     <td>
